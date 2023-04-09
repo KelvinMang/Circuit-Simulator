@@ -43,15 +43,16 @@ Nodal analysis is used to analyze the circuit by writing an equation for each no
 
 To test whether the nodal analysis was working correctly with the conductance matrix method. We tried a very simple circuit that could be solved by hand as well to compare answers.
 
-(Pics 49)
+![Screenshot 2023-04-09 at 7 25 59 PM](https://user-images.githubusercontent.com/42444869/230790059-2592cd20-104f-40aa-8875-53cf8e8cd20c.png)
 
-This is the circuit that we drew to test the conductance matrix. We then converted it into SPICE format (Fig. 50) according to the nodes in the drawing.
 
-(Pic 50)
+This is the circuit that we drew to test the conductance matrix. We then converted it into SPICE format according to the nodes in the drawing.
 
-Fig. 51 shows the voltage at node 1 until node 3, then the bottom 2 values are the current through the 2 voltage sources, however, they are not needed in this case.
+![Screenshot 2023-04-09 at 7 26 23 PM](https://user-images.githubusercontent.com/42444869/230790071-173f3deb-217c-4727-bf49-03a0d0cf6945.png)
 
-(Pic 51)
+Also, the output shows the voltage at node 1 until node 3, then the bottom 2 values are the current through the 2 voltage sources, however, they are not needed in this case.
+
+![Screenshot 2023-04-09 at 7 26 32 PM](https://user-images.githubusercontent.com/42444869/230790076-e69611b3-0181-44aa-8df8-d4785051a4a3.png)
 
 <a name="documentation"></a>
 ## Documentation
