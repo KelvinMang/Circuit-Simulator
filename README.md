@@ -8,7 +8,6 @@
    - [Construct and Solve the Conductance Matrix](#construct-and-solve-the-conductance-matrix)
 3. [Usage](#usage)
 4. [Documentation](#documentation)
-5. [License](#license)
 
 <a name="overview"></a>
 ## Overview
@@ -59,8 +58,3 @@ Also, the output shows the voltage at node 1 until node 3, then the bottom 2 val
 
 For a comprehensive understanding of the project, refer to the project report:
 [View the PDF document](Circuit_Simulator_Report.pdf)
-
-<a name="license"></a>
-## License
-
-(Include licensing information here.)
